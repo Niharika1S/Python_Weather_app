@@ -10,6 +10,7 @@ Display location, time, temperature, and weather condition.
 Show appropriate weather icon based on the weather condition.
 
 Requirements
+
 Python 3.x
 requests
 beautifulsoup4
